@@ -1,4 +1,10 @@
 ## Hi there 👋
+<a href>
+<img height=200 align="center" src="https://github-readme-stats-mrtylerjets-projects.vercel.app/api?username=tylerjet&show=prs_merged,prs_merged_percentage&hide_rank=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href>
+<img height=200 align="center" src="https://github-readme-stats-mrtylerjets-projects.vercel.app/api/top-langs?username=tylerjet&layout=compact&langs_count=8&card_width=320theme=dark#gh-dark-mode-only" />
+</a>
 
 <!--
 **Tylerjet/tylerjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
