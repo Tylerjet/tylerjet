@@ -1,9 +1,9 @@
 ## Hi there 👋
 <a href>
-<img height=200 align="center" src="https://github-readme-stats-mrtylerjets-projects.vercel.app/api?username=tylerjet&show=prs_merged,prs_merged_percentage&hide_rank=true&theme=dark#gh-dark-mode-only" />
+<img height=200 align="center" src="https://github-readme-stats-mrtylerjets-projects.vercel.app/api?username=tylerjet&exclude_repo=Apps_and_Extensions&show=prs_merged,prs_merged_percentage&hide_rank=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href>
-<img height=200 align="center" src="https://github-readme-stats-mrtylerjets-projects.vercel.app/api/top-langs?username=tylerjet&layout=compact&langs_count=8&card_width=320theme=dark#gh-dark-mode-only" />
+<img height=200 align="center" src="https://github-readme-stats-mrtylerjets-projects.vercel.app/api/top-langs?username=tylerjet&exclude_repo=Apps_and_Extensions&layout=compact&langs_count=8&card_width=320theme=dark#gh-dark-mode-only" />
 </a>
 
 <!--
